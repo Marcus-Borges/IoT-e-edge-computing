@@ -5,3 +5,5 @@ Curso de Extensão IoT na prática para iniciantes na prática com microbit e Ar
 3) Objetivo: Possibilitar que ao morador uma forma de realizar o acompanhamento do abastecimento, de forma a evitar um transtorno maior caso a bomba de nível apresente um mal funcionamento.
 4) 
 ![Sensor de caixa d'água 20220928](https://user-images.githubusercontent.com/91570441/193253519-3ff9b116-6623-4fea-9176-4c7e1c02379b.png)
+
+[Clique aqui para acessar o código](https://github.com/Marcus-Borges/IoT-e-edge-computing.git)
