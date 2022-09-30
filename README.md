@@ -6,4 +6,4 @@ Curso de Extensão IoT na prática para iniciantes na prática com microbit e Ar
 4) 
 ![Sensor de caixa d'água 20220928](https://user-images.githubusercontent.com/91570441/193253519-3ff9b116-6623-4fea-9176-4c7e1c02379b.png)
 
-[Clique aqui para acessar o código](https://github.com/Marcus-Borges/IoT-e-edge-computing.git)
+[Clique aqui para acessar o código](https://github.com/Marcus-Borges/IoT-e-edge-computing/blob/main/sensor_de_caixa_d_agua_20220928.ino)
