@@ -13,3 +13,4 @@ Curso de Extensão IoT para iniciantes na prática com microbit e Arduino
 
 ![Pedido de aprovação 20221001](https://user-images.githubusercontent.com/91570441/193406641-e4e1c59c-3b9f-4fa4-9684-4a1c247a0c0b.png)
 
+[Clique aqui para acessar o código](https://github.com/Marcus-Borges/IoT-e-edge-computing/blob/main/pedido_de_aprova_o_202210011.ino)
