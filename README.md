@@ -11,4 +11,5 @@ Curso de Extensão IoT para iniciantes na prática com microbit e Arduino
 4) Projeto Pedido de Aprovação!
 5) Objetivo: Ser aprovado na UC de Extensão IoT para iniciantes na prática com microbit e Arduino!
 
-![Sensor de caixa d'água 20220928](https://user-images.githubusercontent.com/91570441/193253519-3ff9b116-6623-4fea-9176-4c7e1c02379b.png)
+![Pedido de aprovação 20221001](https://user-images.githubusercontent.com/91570441/193406641-e4e1c59c-3b9f-4fa4-9684-4a1c247a0c0b.png)
+
